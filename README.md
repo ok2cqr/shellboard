@@ -4,6 +4,8 @@ Cross-platform terminal emulator built with **Tauri 2**, **React 19 + TypeScript
 
 A per-project tab & split workspace with session restore, themes, a command palette, global search, broadcast input, and a status bar with live git info.
 
+Project page: **[calmbit.cz/en/shellboard](https://calmbit.cz/en/shellboard)**
+
 See [CHANGELOG.md](CHANGELOG.md) for the full release history.
 
 
